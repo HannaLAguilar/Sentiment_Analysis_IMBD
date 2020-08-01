@@ -1,4 +1,4 @@
-# Sentiment analysis
+# Sentiment Analysis
 
 This project is based on instructions by Andrew Trask for the [Deep Learning Udacity Nanodegree](https://github.com/HannaLAguilar/Deep-Learning_Udacity)
 
