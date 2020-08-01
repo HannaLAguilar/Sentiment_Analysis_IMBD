@@ -1,19 +1,10 @@
-# Predicting bike sharing
+# Sentiment Analysis
 
-This scratch Neural Network model predict the number of bikeshare users on given day. The aim of the project is to build a shallow neural network  in order to understand in depth how forward and backpropagation works. For that reason, no framework like pytorch or tensorflow was necessary.
+In this folder you can find three approaches to Sentiment Analysis on the IMDB dataset.
 
 ### Technologies used:
 
-* Python, numpy 
+* Python, Pytorch, numpy 
 * pandas, matplotlib
-* Neural networks 
-* jupyter notebook, anaconda
+* Neural networks, RNN, LSTM
 
-## Installation
-
-Using [Anaconda](https://www.anaconda.com/products/individual) in an enviroment with python 3, install the following packages:
-```
-conda install numpy, pandas=0.25, matplotlib
-
-```
-Then, run the Predicting_bike_sharing.ipynb
